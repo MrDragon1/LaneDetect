@@ -1,0 +1,9 @@
+"S:\CLion 2020.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=G:/Downloads/vcpkg/scripts/buildsystems/vcpkg.cmake -G "CodeBlocks - NMake Makefiles" G:\Code\Cuda\DIPFinal
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc15
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.5.1 in G:/opencv/build/x64/vc15/lib
+-- You might need to add G:\opencv\build\x64\vc15\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/Code/Cuda/DIPFinal/cmake-build-debug
